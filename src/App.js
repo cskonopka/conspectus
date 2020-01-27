@@ -64,8 +64,6 @@ function App() {
               <br/>
               Boston, MA
               <br/>
-              +19785011798
-              <br/>
               cskonopka@protonmail.com
           </Header.Subheader>
         </Header>
