@@ -29,7 +29,7 @@ const panes = [
   //   </Tab.Pane>,
   // },
   {
-    menuItem: 'Pubs',
+    menuItem: 'Publications',
     render: () => <Tab.Pane attached={false}>
       <Publications />
     </Tab.Pane>,
