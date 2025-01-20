@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/conspectus/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/conspectus/static/js/main.aabab37b.chunk.js",
-    "main.js.map": "/conspectus/static/js/main.aabab37b.chunk.js.map",
-    "runtime-main.js": "/conspectus/static/js/runtime-main.640857cd.js",
-    "runtime-main.js.map": "/conspectus/static/js/runtime-main.640857cd.js.map",
-    "static/js/2.6d454532.chunk.js": "/conspectus/static/js/2.6d454532.chunk.js",
-    "static/js/2.6d454532.chunk.js.map": "/conspectus/static/js/2.6d454532.chunk.js.map",
+    "main.js": "/conspectus/static/js/main.5dee57bc.chunk.js",
+    "main.js.map": "/conspectus/static/js/main.5dee57bc.chunk.js.map",
+    "runtime-main.js": "/conspectus/static/js/runtime-main.b65a9507.js",
+    "runtime-main.js.map": "/conspectus/static/js/runtime-main.b65a9507.js.map",
+    "static/js/2.a4e8d6ab.chunk.js": "/conspectus/static/js/2.a4e8d6ab.chunk.js",
+    "static/js/2.a4e8d6ab.chunk.js.map": "/conspectus/static/js/2.a4e8d6ab.chunk.js.map",
     "index.html": "/conspectus/index.html",
-    "precache-manifest.2a8f330ad1faa4520d796e48ad346eb3.js": "/conspectus/precache-manifest.2a8f330ad1faa4520d796e48ad346eb3.js",
+    "precache-manifest.ace4087a6e48a15626ca417bbac2e7f7.js": "/conspectus/precache-manifest.ace4087a6e48a15626ca417bbac2e7f7.js",
     "service-worker.js": "/conspectus/service-worker.js",
     "static/css/main.435d5fe5.chunk.css.map": "/conspectus/static/css/main.435d5fe5.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.640857cd.js",
-    "static/js/2.6d454532.chunk.js",
+    "static/js/runtime-main.b65a9507.js",
+    "static/js/2.a4e8d6ab.chunk.js",
     "static/css/main.435d5fe5.chunk.css",
-    "static/js/main.aabab37b.chunk.js"
+    "static/js/main.5dee57bc.chunk.js"
   ]
 }
