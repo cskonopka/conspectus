@@ -9,6 +9,35 @@ export default class Publications extends Component {
                 <List >
 
 
+                    <List.Item>
+                        <List.Icon name='sticky note outline' />
+                        <List.Content>
+                            <List.Header as='a' href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662966">
+                            Can Cars Gesture? A Case for Expressive Behavior Within Autonomous Vehicle and Pedestrian Interactions
+                            </List.Header>
+                            <List.Description></List.Description>
+                        </List.Content>
+                    </List.Item>
+                    <List.Item>
+                        <List.Icon name='sticky note outline' />
+                        <List.Content>
+                            <List.Header as='a' href="https://medium.com/@vondas-network/inscribing-the-first-webgl-html5-bitcoin-ordinal-a70534af4da1">
+                                Inscribing the first 1:1 WebGL + HTML5 Bitcoin Ordinal
+                            </List.Header>
+                            <List.Description></List.Description>
+                        </List.Content>
+                    </List.Item>
+
+
+                    <List.Item>
+                        <List.Icon name='sticky note outline' />
+                        <List.Content>
+                            <List.Header as='a' href="https://medium.com/@vondas-network/making-a-get-request-with-axios-hosted-on-the-bitcoin-blockchain-5068f34b5b4e">
+                                Making a GET request with Axios hosted on the Bitcoin blockchain
+                            </List.Header>
+                            <List.Description></List.Description>
+                        </List.Content>
+                    </List.Item>
 
 
                     <List.Item>

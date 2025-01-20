@@ -7,6 +7,148 @@ export default class Skills extends Component {
     return (
       <div>
         <List>
+
+        <List.Item>
+            <List.Icon name='right angle' />
+            <List.Content>
+              <List.Header>vondas.network</List.Header>
+
+              <List.List>
+                <List.Item>
+                  <List.Icon name='hand point right' />   Co-Founder
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='time' /> 01/2022 - present
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='save' /> Python - Node.js - Automation - Linux - IoT - Web3 - AI
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='info' /> Creative Problem Solving, Solutions Architect, Technical Documentation, Automation 
+              </List.Item>
+                <List.Item>
+                <List.Icon name='tasks' /> Roles
+                </List.Item>
+                    <List.List as="ul">
+                    <List.Item as="li">
+                      Creative technology solution architecting for clients, artists and institutions.
+                    </List.Item>
+                    <List.Item as="li">
+                      R&D solutions for bleeding-edge technology challenges and advanced system thinking.
+                    </List.Item>
+                  </List.List>
+              </List.List>
+
+           
+            </List.Content>
+          </List.Item>
+
+        <List.Item>
+            <List.Icon name='right angle' />
+            <List.Content>
+              <List.Header>Motional</List.Header>
+
+              <List.List>
+                <List.Item>
+                  <List.Icon name='hand point right' />   Principal UX Hardware/Software Engineer
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='time' /> 04/2023 - 07/2024
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='save' /> Arduino - Raspberry Pi - Node.js - Javascript - Cellular - AWS - Automation - Linux - IoT
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='info' /> Autonomous Vehicles, Solutions Architect, User testing, Technical Documentation, Cybersecurity
+              </List.Item>
+                <List.Item>
+                <List.Icon name='tasks' /> Roles
+                </List.Item>
+                    <List.List as="ul">
+                    <List.Item as="li">
+                      Product technical advisory, focusing on cross-team communication between Engineering, Operations and Product. 
+                    </List.Item>
+                    <List.Item as="li">
+                      Led a small team focused on creating CES quality user journey prototypes for VIP, C-Suite and dignitary user journey showcases. 
+                    </List.Item>
+                    <List.Item as="li">
+                      Created IoT prototypes for Motional/Uber delivery collaboration designs for the Product team.
+                    </List.Item>
+                    <List.Item as="li">
+                      Managed a VR team focused on User Journey development, HMI experiences, and patent awarded robotics use cases.
+                    </List.Item>
+                    <List.Item as="li">
+                    Product team liaison for Cybersecurity teams, responsible for validating Product tests so they adhere to updated protocols.
+                    </List.Item>
+                  </List.List>
+
+           
+            
+              </List.List>
+
+              <List.List>
+                <List.Item>
+                  <List.Icon name='hand point right' />   Senior UX Hardware/Software Engineer
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='time' /> 04/2021 - 04/2023
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='save' /> Arduino - Raspberry Pi - Node.js - Javascript - Cellular - AWS - Automation - Linux - IoT
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='info' /> Autonomous Vehicles, Solutions Architect, Product User-testing, Technical Documentation, Procurement
+              </List.Item>
+                <List.Item>
+                <List.Icon name='tasks' /> Roles
+                </List.Item>
+                    <List.List as="ul">
+                    <List.Item as="li">
+                    Led the technical development, cross-team coordination and sourced materials for several Hyundai Ionic 5 EV prototypes vehicles for the Product team.  
+                  </List.Item>
+                  <List.Item as="li">
+                    Created a modular software/hardware platform to enable Product teams the ability to validate Engineering use cases in real-life settings. 
+                  </List.Item>
+                  <List.Item as="li">
+                    Hardware/software integration lead for UI/UX user and accessibility testing for Lyft, C-Suite, Hyundai, Kia, and various dignitaries.
+                  </List.Item>
+                  </List.List>
+            
+              </List.List>
+              <List.List>
+                <List.Item>
+                  <List.Icon name='hand point right' />   UX Hardware/Software Engineer
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='time' /> 04/2020 - 04/2021
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='save' /> Arduino - Raspberry Pi - Node.js - Javascript - Cellular - AWS - Automation - Linux - IoT
+              </List.Item>
+                <List.Item>
+                  <List.Icon name='info' /> Solutions Architect, User testing, QA, Technical Documentation
+              </List.Item>
+                <List.Item>
+                <List.Icon name='tasks' /> Roles
+                </List.Item>
+                    <List.List as="ul">
+                    <List.Item as="li">
+                    Created an IoT vehicle hardware/software sandbox for Product testing a ride-share network in collaboration with Cloud & Engineering teams.
+                  </List.Item>
+                  <List.Item as="li">
+                  Validated automotive and experimental hardware components for the Product team provided by vendors to determine if they aligned with use cases provided by Design & Research teams.
+                  </List.Item>
+                    <List.Item as="li">
+                    Created a VR platform for validating User Journey experiences and help define internal HMI experiences to inform Engineering.    
+                    </List.Item>
+                  </List.List>
+
+           
+            
+              </List.List>
+            </List.Content>
+          </List.Item>
+
           <List.Item>
             <List.Icon name='right angle' />
             <List.Content>

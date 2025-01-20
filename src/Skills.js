@@ -12,10 +12,31 @@ export default class Skills extends Component {
                             <List.Header>Backend</List.Header>
                             <List.List>
                                 <List.Item>
-                                    <List.Icon name='caret right' /> Go
+                                    <List.Icon name='caret right' /> Node.js
                                 </List.Item>
                                 <List.Item>
-                                    <List.Icon name='caret right' /> Node.js
+                                    <List.Icon name='caret right' /> Python
+                                </List.Item>
+                            </List.List>
+                        </List.Content>
+                    </List.Item>
+
+                    <List.Item>
+                        <List.Icon name='cog' />
+                        <List.Content>
+                            <List.Header>AI</List.Header>
+                            <List.List>
+                                <List.Item>
+                                    <List.Icon name='caret right' /> ChatGPT
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='caret right' /> Generative AI
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='caret right' /> ComfyUI
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='caret right' /> Visions of Chaos
                                 </List.Item>
                             </List.List>
                         </List.Content>
@@ -30,10 +51,22 @@ export default class Skills extends Component {
                                     <List.Icon name='caret right' /> AWS
                                 </List.Item>
                                 <List.Item>
-                                    <List.Icon name='caret right' /> Azure
+                                    <List.Icon name='caret right' /> Docker
+                                </List.Item>
+                            </List.List>
+                        </List.Content>
+                    </List.Item>
+
+                    <List.Item>
+                        <List.Icon name='laptop' />
+                        <List.Content>
+                            <List.Header>Web3</List.Header>
+                            <List.List>
+                                <List.Item>
+                                    <List.Icon name='caret right' /> Solidity
                                 </List.Item>
                                 <List.Item>
-                                    <List.Icon name='caret right' /> Docker
+                                    <List.Icon name='caret right' /> Security auditing
                                 </List.Item>
                             </List.List>
                         </List.Content>
@@ -66,10 +99,13 @@ export default class Skills extends Component {
                                     <List.Icon name='caret right' /> Raspberry Pi
                                 </List.Item>
                                 <List.Item>
-                                    <List.Icon name='caret right' /> Latte Panda
+                                    <List.Icon name='caret right' /> Cellular IoT
                                 </List.Item>
                                 <List.Item>
-                                    <List.Icon name='caret right' /> Cellular IoT
+                                    <List.Icon name='caret right' /> Networking
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='caret right' /> IoT Automation
                                 </List.Item>
                             </List.List>
                         </List.Content>
@@ -85,6 +121,9 @@ export default class Skills extends Component {
                                 </List.Item>
                                 <List.Item>
                                     <List.Icon name='caret right' /> Python
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='caret right' /> Selenium
                                 </List.Item>
                             </List.List>
                         </List.Content>
